@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../09-backend-logging-in-and-creating-jwt"
+		}
+	],
+	"settings": {}
+}
